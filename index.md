@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "You-Dont-Need-Lodash-Underscore-analysis"
   text: "Stay hungry, Stay foolish"
-  tagline:
+  tagline: "test"
   actions:
     - theme: brand
       text: What is You-Dont-Need-Lodash-Underscore?
